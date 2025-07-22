@@ -1,7 +1,3 @@
-Here's a **README.md** draft for your GitHub project based on the HR Dataset Analysis & Visualization dashboard you've shared:
-
----
-
 # HR Dataset Analysis & Visualization
 
 This project presents a comprehensive analysis and visualization of an HR dataset using interactive dashboards. It helps uncover key insights related to employee demographics, attrition, satisfaction, salary trends, department performance, and recruitment effectiveness.
@@ -86,19 +82,3 @@ The interactive dashboard provides:
 3. Filter by **Year**, **Manager**, **Sex**, or **Department** to explore deeper insights.
 
 ---
-
-## 📌 Future Improvements
-
-* Predictive modeling for attrition
-* Integration with live HR systems
-* More advanced salary and performance trend analysis
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like me to turn this into a Markdown file or help you adjust it to fit your GitHub repo name or structure.
